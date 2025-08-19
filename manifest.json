@@ -2,10 +2,10 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Rainbow Texture Pack x B2B",
-  "version": "1.6.10",
-  "description": "A browser extension to mod an online game. Some parts made by Heythereu",
-  "author": "SmoothDude, joudaALT, Mystic",
+  "name": "Texture pack for videozz",
+  "version": "1.0",
+  "description": "YT is good chat",
+  "author": "SmoothDude",
   "background": {"service_worker": "background.js"},
   "icons": {
     "128": "icon.png"
