@@ -8,7 +8,7 @@
   "author": "SmoothDude",
   "background": {"service_worker": "background.js"},
   "icons": {
-    "128": "icon.png"
+    "128": "logo.webp"
   },
   "permissions": [
    "declarativeNetRequestWithHostAccess"
