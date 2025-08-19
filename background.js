@@ -11,7 +11,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/skeleton/skeleton.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/skeleton.png",
   "||miniblox.*textures/entity/slime/slime.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/slime.png",
   "||miniblox.*textures/entity/spider/spider.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/spider.png",
-  "||miniblox.*textures/entity/zombie/zombie.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/zombie.png",
+  "||miniblox.*textures/entity/zombie/zombie.png": "https://raw.githubusercontent.com/SmoothDude6969/Tpack-for-videos/refs/heads/main/sushi.png",
   "||miniblox.*textures/entity/ghost/ghost.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/ghost.png",
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/zombie_cowman.png",
   "||miniblox.*textures/entity/snowman/snowman.png": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/entity/snowman.png",
@@ -69,4 +69,5 @@ chrome.declarativeNetRequest.updateDynamicRules(
     }
   }
 );
+
 
