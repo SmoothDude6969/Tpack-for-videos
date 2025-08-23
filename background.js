@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/spritesheet-t.png",
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/fake_bedrock.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/DEBUG/custom_background.png",
   "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/DEBUG/Custom%20writing.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
@@ -69,5 +69,6 @@ chrome.declarativeNetRequest.updateDynamicRules(
     }
   }
 );
+
 
 
